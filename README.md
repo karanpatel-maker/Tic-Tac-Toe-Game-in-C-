@@ -76,3 +76,10 @@ its player1's turn Enter your slot: 5
 2. 📝 Implement scoreboard for multiple rounds
 
 3. 🎨 Better UI with colors for X and O
+
+
+👨‍💻 Author
+
+Karan Patel
+
+💡Passionate about C++ and building real-world applications.
